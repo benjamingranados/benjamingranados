@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benjamingranados
 - 👀 I’m interested in C#, JavaScript, PowerApps & Azure
 - 🌱 I’m currently learning Xamarin Apps
-- 💞️ I’m looking to collaborate on Unity & retro VideoGames
+- 💞️ I’m looking to collaborate on Unity & retro Video Games
 - 📫 How to reach me: benjamingranados@gmail.com
 
 <!---
